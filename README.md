@@ -43,7 +43,7 @@ A sleek and intuitive task management application built with React, TypeScript, 
 
 1. Clone the repository
 ```bash
-git clone (https://github.com/ameer22l7555/Modern-Task-Manager)
+git clone https://github.com/ameer22l7555/Modern-Task-Manager
 cd modern-task-manager
 ```
 
