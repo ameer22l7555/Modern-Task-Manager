@@ -1,6 +1,7 @@
-# 📋 Modern Task Manager ✨
+![image](https://github.com/user-attachments/assets/88f1afaf-e479-43bf-a227-ac25b350f421)# 📋 Modern Task Manager ✨
 
 A sleek and intuitive task management application built with React, TypeScript, and Vite. Manage your tasks with style and efficiency!
+Visit (https://ameer22l7555.github.io/Modern-Task-Manager/) to use it!
 
 ![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript)
